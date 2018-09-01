@@ -1,3 +1,5 @@
+# Plot a bar graph(x and y axes) and line graph(x and secondry y axes)
+
 library(ggplot2)
 dataset<-read.csv("dataset_lab1.csv",sep=",",header=TRUE)
 gg<-ggplot(dataset,aes(x=Age.group,y=Number.of.loans,group=1))+
