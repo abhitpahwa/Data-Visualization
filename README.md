@@ -7,3 +7,4 @@ Lab codes for Data Visualization
 - dv_lab2_b.R : multivariate plots using library: lattice
 - dv_lab2_c.R : statistical analysis using library: lattice
 - dataset_lab2.csv : dataset in csv format required in dv_lab2_a.R, dv_lab2_b.R and dv_lab2_c.R
+- dv_lab3_a.R : correlation plots using library: ggplot, gganimate, ggalt, gapminder, ggExtra, ggcorrplot
