@@ -1,3 +1,5 @@
+#IGRAPH 
+
 library(igraph)
 
 #Read the given adjacency matrix into R 
