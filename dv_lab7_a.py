@@ -41,7 +41,7 @@ route_lengths=dataset_routes.apply(calc_dist,axis=1)
 
 # In[13]:
 
-
+#plot histogram
 import matplotlib.pyplot as plt
 plt.hist(route_lengths,bins=20)
 plt.show()
@@ -49,7 +49,7 @@ plt.show()
 
 # In[11]:
 
-
+#plot bar graph
 import numpy
 route_length_df=pd.DataFrame({"length":route_lengths,"id":dataset_routes["airline_id"]})
 airline_route_lengths=route_length_df.groupby("id").aggregate(numpy.mean)
@@ -59,7 +59,7 @@ plt.bar(range(airline_route_lengths.shape[0]),airline_route_lengths["length"])
 
 # In[12]:
 
-
+#plot scatterplot
 name_lengths=dataset_airlines["name"].apply(lambda x: len(str(x)))
 plt.scatter(dataset_airlines["id"].astype(int),name_lengths)
 
