@@ -1,3 +1,7 @@
+###### published on:
+#   http://www.r-statistics.com/2010/06/clustergram-visualization-and-diagnostics-for-cluster-analysis-r-code/
+## Main author of the function:  Tal Galili (tal.galili@gmail.com)
+
 clustergram.kmeans <- function(Data, k, ...)
 {
   # this is the type of function that the clustergram
