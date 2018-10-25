@@ -30,4 +30,4 @@ This graph is useful in exploratory analysis for non-hierarchical clustering alg
 - dv_lab9_visuals.pdf : pdf containing questions for tableau along with output plots screenshots
 - dv_lab11_visuals_a.pdf: pdf containing output visuals for dv_lab11_book_a.twb
 - dv_lab11_visuals_b.pdf: pdf containing output visuals for dv_lab11_book_b.twb
-- ** NOTE **
+- **TO INTEGREATE R WITH TABLEAU, USE RSERVE AND THEN CONNECT TO TABLEAU**
