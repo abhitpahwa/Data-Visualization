@@ -18,7 +18,8 @@ This graph is useful in exploratory analysis for non-hierarchical clustering alg
 - dv_lab10_book.twbx : tableau workbook with plots and dashboards on dataset "US_State_Data"
 - dv_lab11_book_a.twb : tableau workbook integrated with R for k-means clustering on iris dataset
 - dv_lab11_book_b.twb : tableau workbook integrated with R for k-means clustering on buy_bikes dataset
-- dv_lab12_book.twb tableau workbook with storytelling for BirdStikes dataset which has been preprocessed using preprocess.py
+- dv_lab12_book.twb : tableau workbook with storytelling for BirdStikes dataset which has been preprocessed using preprocess.py
+- dv_lab13_book.twb : tableau workbook with dashboard and storytelling for sample superstore
 - dataset_lab1.csv : dataset in csv format related to loans
 - dataset_lab2.csv : dataset in csv format related to marks of few students
 - dataset_lab5_adjacency.csv : dataset in csv format related to adjacency matrix of a graph
@@ -33,3 +34,4 @@ This graph is useful in exploratory analysis for non-hierarchical clustering alg
 - dv_lab11_visuals_b.pdf: pdf containing output visuals for dv_lab11_book_b.twb
 - preprocess.py : python script used to preprocess the dataset BirdStikes.csv used for dv_lab12_book.twb 
 - **TO INTEGREATE R WITH TABLEAU, USE RSERVE AND THEN CONNECT TO TABLEAU**
+- **LABS DONE ON TABLEAU HAS DATASET IN THEIR SOURCE, THUS NOT INCLUDED SEPARATELY**
