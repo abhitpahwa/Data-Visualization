@@ -34,4 +34,4 @@ This graph is useful in exploratory analysis for non-hierarchical clustering alg
 - dv_lab11_visuals_b.pdf: pdf containing output visuals for dv_lab11_book_b.twb
 - preprocess.py : python script used to preprocess the dataset BirdStikes.csv used for dv_lab12_book.twb 
 - **TO INTEGREATE R WITH TABLEAU, USE RSERVE AND THEN CONNECT TO TABLEAU**
-- **LABS DONE ON TABLEAU HAS DATASET IN THEIR SOURCE, THUS NOT INCLUDED SEPARATELY**
+- **LABS DONE ON TABLEAU HAVE DATASETS IN THEIR SOURCE, THUS THEY HAVE NOT BEEN INCLUDED SEPARATELY**
