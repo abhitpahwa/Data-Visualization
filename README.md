@@ -25,4 +25,4 @@ This graph is useful in exploratory analysis for non-hierarchical clustering alg
 - dataset_lab7_airports.csv : dataset in csv format related to airports
 - dataset_lab7_routes.csv : dataset in csv format related to routes
 - dataset_lab8.csv : dataset in csv format related to percentage of source of protein consumption in different european countries
-- dv_lab9_ques.pdf : pdf containing questions for tableau along with output plots screenshots
+- dv_lab9_visuals.pdf : pdf containing questions for tableau along with output plots screenshots
